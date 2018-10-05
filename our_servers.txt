@@ -22,3 +22,5 @@ sfosb.org
 sfrb.org
 sftreasureisland.org
 tech.sfgov.org
+sfnavcenter.sfgov.org
+businessportal.sfgov.org
