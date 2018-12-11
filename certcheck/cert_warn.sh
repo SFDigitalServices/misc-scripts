@@ -4,7 +4,7 @@ warn_date=$(date -jf'%Y-%m-%d'  -v-22d ${exp_date} +'%Y-%m-%d')
 # echo warn date is ${warn_date}
 if [[ ${warn_date} < $(date -j +'%Y-%m-%d') ]]
 then
-  echo "**** $1 cert is about to expire ***"
+  echo "**** $1 cert is about to expire on ${exp_date} ***"
 else
   echo "$1 cert is fine."
 fi

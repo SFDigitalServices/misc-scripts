@@ -24,3 +24,6 @@ sftreasureisland.org
 tech.sfgov.org
 sfnavcenter.sfgov.org
 businessportal.sfgov.org
+digitalservices.sfgov.org
+sfpbd.sfgov.org
+index.sfgov.org
