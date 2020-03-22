@@ -1,4 +1,4 @@
-#quick n dirty python reader for azure storage.
+quick n dirty python reader for azure storage.
 
 Currently hardcoded to only read `uploads` folder.
 
