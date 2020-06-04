@@ -6,3 +6,7 @@
  `curl https://sfds.form.io/buildingpermitapplication -o form.json`
 
 This generates a file that called form.json, which you will load into the HTML Generator
+
+### How to run this:
+Run the following in your command line:
+`node emailTemplateHtmlGenerator.js`
